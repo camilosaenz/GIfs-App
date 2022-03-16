@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 # Deployment
 
-https://dazzling-brahmagupta-7958a4.netlify.app/
+https://gifs-search-application.netlify.app/
 
 # Author
 
